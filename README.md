@@ -1,2 +1,2 @@
-<h1 allign="center">Mustafa</h1>
+<center>Mustafa</center>
 ---
