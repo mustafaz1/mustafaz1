@@ -5,5 +5,5 @@
         alt="Python"
         width="50px"
         height="50px"
-        align="center">
+        align="center" />
 </p1>
