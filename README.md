@@ -1,6 +1,6 @@
 <center>Mustafa</center>
 ---
-<p1 align="center">
+<p1>
     <img src="python.png"
         alt="Python"
         width="50px"
