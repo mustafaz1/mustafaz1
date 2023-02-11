@@ -1,8 +1,7 @@
 <center>Mustafa</center>
 ---
-<center>
-    <img src="python.png"
-         alt="Python"
-         width="50px"
-         height="50px">
-<center>
+<img src="python.png"
+    alt="Python"
+    width="50px"
+    height="50px"
+    style="text-align: center;">
